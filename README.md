@@ -72,4 +72,7 @@ En este gráfico podemos ir cambiando el año y ver como evoluciona el número d
 
 Todos los gráficos de este Dashboard están relacionados entre sí por lo que al seleccionar algún elemento de un gráfico se filtra por ese elemento en el resto de gráficos
 
+### Dashboard 2: Análisis Zona Centro de Madrid. Nivel de satisfacción
+![Dashboard2](https://raw.githubusercontent.com/mcpade/Practica_Tableau/master/graficos/Dashboard2.png)
+
 
