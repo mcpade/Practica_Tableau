@@ -75,4 +75,14 @@ Todos los gráficos de este Dashboard están relacionados entre sí por lo que a
 ### Dashboard 2: Análisis Zona Centro de Madrid. Nivel de satisfacción
 ![Dashboard2](https://raw.githubusercontent.com/mcpade/Practica_Tableau/master/graficos/Dashboard2.png)
 
+Con este Dashboard podemos buscar viviviendas que cumplan las condiciones que determinemos a través de los filtros de la izquierda en la zona centro de Madrid (Malasaña, Embajadores, La Latina, Sol, Justicia, Cortes y Palacio).
+
+Podemos seleccionar el tipo de nivel de satisfacción entre los posibles de Airbnb (Todos, Checkin, Comunicacion, Exactitud, Limpieza y Localización) e indicar entre que niveles de satisfacción queremos que esté. Igualmente se puede seleccionar el rángo de huéspedes, número de camas, número de habitaciones y precio.
+
+Una vez realizado el filtrado en el mapa se nos muestran las viviendas que cumplen esas condiciones. Colocándonos sobre una vivienda podemos ver el nombre, barrio, tipo, precio, nivel de satisfacción y un resumen con el número de huéspedes, camas habitaciones y nivel de satisfacción sobre el número total de opiniones.
+
+Los gráficos bajo el mapa nos muestran el número de viviendas que cumplen con los filtros seleccionados en cada barrio y el nivel de satisfacción por tipo de habitación.
+
+Todos los gráficos de este Dashboard están relacionados entre sí por lo que al seleccionar algún elemento de un gráfico se filtra por ese elemento en el resto de gráficos
+
 
