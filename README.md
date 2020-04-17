@@ -54,5 +54,11 @@ En el margen derecho arriba tenemos los posibles filtros que afectan a los gráf
 
 #### "Evolución de nº de viviendas" 
 
-En este gráfico se representa como ha ido evolucionando el número de viviendas de Airbnb en Madrid a lo largo de los años. La gráfica de arriba representa el total acumulado de viviendas y la de abajo el total acumulado pero por Tipo de Habitaciones (Entire home/pat, Private room, Shared room
-Si se va pasando el puntero por encima del gráfico nos aparecerán el número concreto de viviendas en cada año
+En este gráfico se representa como ha ido evolucionando el número de viviendas de Airbnb en Madrid a lo largo de los años. La gráfica de arriba representa el total acumulado de viviendas y la de abajo el total acumulado pero por Tipo de Habitaciones (Entire home/pat, Private room, Shared room)
+Si se va pasando el puntero por encima del gráfico nos aparecerán el número concreto de viviendas en cada año.
+
+#### Evolución número viviendas por barrio y año
+
+En este caso se representan la evolución del acumulado del número de viviendas en los 10 barrios con más viviendas de Madrid en los sucesivos años. Es posible cambiar el número de barrios representados con el filtro "Top de registros".
+En la parte de arriba de la gráfica, junto a los años nos aparece un símbolo **+** ó **-** que nos permite ver el acumulado por trimestre del año, por meses e incluso por semanas. 
+
