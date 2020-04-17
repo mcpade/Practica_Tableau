@@ -43,7 +43,7 @@ c. El cálculo de KPIs adecuados y el uso de campos calculados avanzados.
 
 d. El uso de vistas interactivas.
 
-# Desarrollo
+# Dashboards creados
 
 En la práctica se han elaborado dos Dashboards por los que se puede navegar e interactuar.
 
@@ -52,7 +52,7 @@ En la práctica se han elaborado dos Dashboards por los que se puede navegar e i
 
 En el margen derecho arriba tenemos los posibles filtros que afectan a los gráficos del Dashboard. Podemos filtrar por tipo de habitación, año y también podemos cambiar el número de barrios que queremos observar (están ordenados por números de viviendas).
 
-#### "Evolución de nº de viviendas" 
+#### Evolución de nº de viviendas
 
 En este gráfico se representa como ha ido evolucionando el número de viviendas de Airbnb en Madrid a lo largo de los años. La gráfica de arriba representa el total acumulado de viviendas y la de abajo el total acumulado pero por Tipo de Habitaciones (Entire home/pat, Private room, Shared room)
 Si se va pasando el puntero por encima del gráfico nos aparecerán el número concreto de viviendas en cada año.
@@ -61,4 +61,15 @@ Si se va pasando el puntero por encima del gráfico nos aparecerán el número c
 
 En este caso se representan la evolución del acumulado del número de viviendas en los 10 barrios con más viviendas de Madrid en los sucesivos años. Es posible cambiar el número de barrios representados con el filtro "Top de registros".
 En la parte de arriba de la gráfica, junto a los años nos aparece un símbolo **+** ó **-** que nos permite ver el acumulado por trimestre del año, por meses e incluso por semanas. 
+
+#### Númeo de viviendas por barrio, por tipo y por año
+
+En este gráfico de barras podemos ver el número de viviedas por tipo y año en los 10 barrios con más viviedas. Es posible usar los filtros para ver solo un determinado tipo de viviendas, un año concreto y aumentar o disminuir el número de barrios con el número de "Top de registros".
+
+#### Mapa de evolución del nº de viviendas por año y nivel de satisfacción de los usuarios.
+
+En este gráfico podemos ir cambiando el año y ver como evoluciona el número de viviendas en los diferentes barrios de Madrid situados en el mapa y la satisfacción de los clientes. El tampo de los círculos representa el número de viviendas mientra que el color representa el nivel de satisfacción
+
+Todos los gráficos de este Dashboard están relacionados entre sí por lo que al seleccionar algún elemento de un gráfico se filtra por ese elemento en el resto de gráficos
+
 
