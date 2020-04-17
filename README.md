@@ -43,3 +43,9 @@ c. El cálculo de KPIs adecuados y el uso de campos calculados avanzados.
 
 d. El uso de vistas interactivas.
 
+# Desarrollo
+
+En la práctica se han elaborado dos Dashboards por los que se puede navegar e interactuar.
+
+### Daskboard 1: Evolución de número de viviendas de alquilé en Madrid por año, tipo de vivienda y nivel  de satisfacción de los usuarios
+
