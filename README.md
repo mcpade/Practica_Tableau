@@ -50,3 +50,9 @@ En la práctica se han elaborado dos Dashboards por los que se puede navegar e i
 ### Dashboard 1: Evolución de número de viviendas de alquilé en Madrid por año, tipo de vivienda y nivel  de satisfacción de los usuarios
 ![Dashboard1](https://raw.githubusercontent.com/mcpade/Practica_Tableau/master/graficos/Dashboard1.png)
 
+En el margen derecho arriba tenemos los posibles filtros que afectan a los gráficos del Dashboard. Podemos filtrar por tipo de habitación, año y también podemos cambiar el número de barrios que queremos observar (están ordenados por números de viviendas).
+
+#### "Evolución de nº de viviendas" 
+
+En este gráfico se representa como ha ido evolucionando el número de viviendas de Airbnb en Madrid a lo largo de los años. La gráfica de arriba representa el total acumulado de viviendas y la de abajo el total acumulado pero por Tipo de Habitaciones (Entire home/pat, Private room, Shared room
+Si se va pasando el puntero por encima del gráfico nos aparecerán el número concreto de viviendas en cada año
