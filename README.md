@@ -48,6 +48,5 @@ d. El uso de vistas interactivas.
 En la práctica se han elaborado dos Dashboards por los que se puede navegar e interactuar.
 
 ### Dashboard 1: Evolución de número de viviendas de alquilé en Madrid por año, tipo de vivienda y nivel  de satisfacción de los usuarios
-
-(https://raw.githubusercontent.com/mcpade/Practica_Tableau/master/graficos/Dashboard1.png)
+![Dashboard1](https://raw.githubusercontent.com/mcpade/Practica_Tableau/master/graficos/Dashboard1.png)
 
